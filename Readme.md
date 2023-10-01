@@ -1,7 +1,7 @@
 # Real Time Chat App with MERN STACK Technologies 
 
 #### Check out our Real-Time Chat App in action with this demo video:
-<iframe width="560" height="315" src="https://youtu.be/b4NsLVqUq18" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4NsLVqUq18?si=BFxC4wbyURaC4E1r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Real-Time Chat App using MERN Stack
 
