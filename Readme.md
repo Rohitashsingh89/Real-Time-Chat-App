@@ -2,7 +2,7 @@
 
 #### Check out our Real-Time Chat App in action with this demo video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b4NsLVqUq18?si=BFxC4wbyURaC4E1r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<img src="https://www.youtube.com/watch?v=b4NsLVqUq18" align="center" style="width: 100%" />
+<img src="https://youtu.be/hY7lIOSB8jU?si=f5FOImYG88NIze-M" align="center" style="width: 100%" />
 
 
 # Real-Time Chat App using MERN Stack
