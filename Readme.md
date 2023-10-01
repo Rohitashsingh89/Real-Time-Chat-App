@@ -1,6 +1,7 @@
 # Real Time Chat App with MERN STACK Technologies 
 
 #### Check out our Real-Time Chat App in action with this demo video:
+[![JavaScript Fetch API Crash Course](https://img.youtube.com/vi/Oive66jrwBs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Oive66jrwBs)
 
 # Real-Time Chat App using MERN Stack
 
